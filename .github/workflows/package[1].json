@@ -1,0 +1,12 @@
+{
+  "name": "alisveris-sitesi",
+  "version": "1.0.0",
+  "description": "Basit bir alışveriş sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
